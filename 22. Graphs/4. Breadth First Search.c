@@ -1,4 +1,4 @@
-///***~~~`ALLAH IS ALMIGHTY`~~~***///
+///***~~~`ALLAH IS OMNISCIENT`~~~***///
 
 #include<stdio.h>
 #define white 1
